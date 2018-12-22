@@ -1,0 +1,1 @@
+Foi adicionado o arquivo extra "Server2.java" no pacote "Executar", o qual pode ser utilizado como um servidor extra para a execução do EP.
